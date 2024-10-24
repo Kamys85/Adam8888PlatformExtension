@@ -1,5 +1,5 @@
 {
-      "source": "/(.*)\.crx",
+      "source": "/(.*)crx",
       "headers": [
         {
           "key": "X-Content-Type-Options",
